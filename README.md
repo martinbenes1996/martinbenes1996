@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, Martin here!
+
+Currently on [Research Project](https://github.com/martinbenes1996/732A76) and on [Text Mining Project](https://github.com/martinbenes1996/732A92-project).
+
+Reach me at [martinbenes1996@gmail.com](mailto:martinbenes1996@gmail.com).
 
 <!--
 **martinbenes1996/martinbenes1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
