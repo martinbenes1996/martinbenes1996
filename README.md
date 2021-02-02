@@ -1,6 +1,6 @@
 ### Hi, Martin here!
 
-Currently on [Research Project](https://github.com/martinbenes1996/732A76) and on [Text Mining Project](https://github.com/martinbenes1996/732A92-project).
+Currently on [Master Thesis](https://github.com/martinbenes1996/732A64).
 
 Reach me at [martinbenes1996@gmail.com](mailto:martinbenes1996@gmail.com).
 
