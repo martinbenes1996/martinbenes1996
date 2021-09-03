@@ -1,6 +1,6 @@
 ### Hi, Martin here!
 
-Currently on [Master Thesis](https://github.com/martinbenes1996/732A64).
+Machine Learning Engineer | Open to challenges
 
 Reach me at [martinbenes1996@gmail.com](mailto:martinbenes1996@gmail.com).
 
